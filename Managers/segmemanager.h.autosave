@@ -1,0 +1,11 @@
+#ifndef LINEMANAGER_H
+#define LINEMANAGER_H
+
+class SegmentManager: public BaseManager
+{
+protected:
+    Composite
+      
+}
+#endif // LINEMANAGER_H
+
